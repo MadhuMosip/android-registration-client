@@ -2,9 +2,9 @@
   {
     "name": "androidDevice",
     "caps": {
-      "appium:udid": "HA1TB4W4",
+      "appium:udid": "emulator-5554",
       "appium:automationName": "UiAutomator2",
-      "appium:app": "E:\app-release.apk",
+      "appium:app": "C:/apk-output/app-release.apk",
       "platformName": "android",
       "appium:appPackage": "io.mosip.registration_client",
       "appium:appActivity": "io.mosip.registration_client.MainActivity",
